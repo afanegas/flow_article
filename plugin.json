@@ -1,0 +1,12 @@
+{
+    "ID": "der-artikel-plugin",
+    "ActionKeyword": "art",
+    "Name": "Der Artikel",
+    "Description": "Finde deutsche Artikel (der/die/das) für Wörter",
+    "Author": "afanegas",
+    "Version": "250914",
+    "Language": "python",
+    "Website": "https://der-artikel.de",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "main.py"
+}
